@@ -7,4 +7,4 @@ The templates are located in the ```/templates``` directory, and you can preview
 
 ## Licence
 
-[the MIT license].
+MIT license.
