@@ -1,0 +1,84 @@
+html, body {
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #fff;
+  background: white;
+}
+.is-dark {
+  background-color: #fff;
+}
+.nav {
+  padding: 20px 0;
+}
+.hero.is-dark .nav-item a:not(.button), .hero.is-dark a.nav-item {
+  color: #fff;
+  padding: 0 30px;
+}
+.nav-item {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+}
+.nav-item .button{
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  padding: 10px 20px;
+  height: 45px;
+  border-radius;
+}
+.checkboxes {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.checkboxes input[type="checkbox"]:checked + label::before {
+  background-color: #00d1b2;
+  border-color: #00d1b2;
+}
+
+.checkboxes input[type="checkbox"]:checked + label::after {
+  color: #fff;
+}
+
+.button.is-large {
+  margin-bottom: 10px;
+}
+.columns.is-vcentered {
+  margin-top: 5px;
+}
+.hero.is-dark {
+  color: #333;
+  background: white;
+  display: table;
+  width: 100%;
+
+}
+.button.is-success.is-outlined {
+  background-color: #97cd76;
+  border-color: #97cd76;
+  color: #ffffff;
+}
+
+.button.is-danger.is-outlined {
+  background-color: #ed6c63;
+  border-color: #ed6c63;
+  color: #ffffff;
+}
+h4 {
+  font-size: 18px;
+  margin-top: 50px;
+}
+
+.footer-text {
+  font-size: 10px;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+.is-3 {
+  color: #3e3e3e !important;
+}
