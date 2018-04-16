@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Event Participation Form</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
+	<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../css/event.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+	// Listen for click on toggle checkbox
+	$('#select-all').click(function(event) {   
+		if(this.checked) {
+        // Iterate each checkbox
+        $(':checkbox').each(function() {
+        	this.checked = true;                        
+        });
+    }
+    else {
+        // Undo Iteration
+        $(':checkbox').each(function() {
+        	this.checked = false;                        
+        });
+    }
+});
+});
+</script>
+</head>
+<body>
+	<section class="hero is-fullheight is-dark">
+		<!-- Logo -->
+		<p class="level-item has-text-centered">
+			<img style="width: 160px; margin-top: 50px;" src="https://github.com/aldi/awesome-bulma-templates/raw/master/images/event_logo_gold.png" alt="Logo">
+		</p>
+		<!-- Table -->
+		<div class="hero-body">
+			<div class="container has-text-centered">
+				<p>
+					<h1 class="title is-3">Our company celebrates 50 years!</h1>
+					<p>We invite you to our Press Conference & VIP Cocktail on <strong>January 1st 2019</strong> at Tae Kwon Do, VIP hall.<br>
+					We’re so pleased to welcome you to our celebration of linking people together.</p>
+					<h4>Select below the talks that you will participate to.</h4>
+					<div class="columns is-vcentered">
+						<div class="column is-full-mobile">
+							<section class="panel">
+								<p class="panel-heading">Program</p>
+								<div class="panel-block">
+									<table class="table table is-fullwidth">
+										<thead>
+											<tr>
+												<th>Time</th>
+												<th>Talk</th>
+												<th style="text-align: center;">Select</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>9:00</td>
+												<td>Grand Opening</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>9:45</td>
+												<td>Launching of the theme MAKING HISTORY TOGETHER</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>10:00</td>
+												<td>The Founders Speech</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>10:15</td>
+												<td>Brand</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>10:25</td>
+												<td>Brand - SkinCare</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>11:00</td>
+												<td>Brand - Digital</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>11:15</td>
+												<td>Brand - Wellness</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>12:20</td>
+												<td>Brand - Color & Fragrance</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>13:00</td>
+												<td>HALL OF FAME / GRAND CLOSING</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td>14:00</td>
+												<td>Press Conference & VIP Cocktail</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td style="text-align: right; vertical-align: middle;">Select All</td>
+												<td class="is-icon">
+													<div class="field-body">
+														<div class="field">
+															<div class="checkboxes">
+																<label class="checkbox">
+																	<input type="checkbox" id="select-all">
+																</label>
+															</div>
+														</div>
+													</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</section>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="column has-text-centered">
+				<p>
+					<button class="button is-medium is-info is-outlined" type="submit" value="Submit input">
+						<span class="icon">
+							<i class="fa fa-paper-plane"></i>
+						</span>
+						<span>Confirm Participation
+						</span>
+					</button>
+
+				</p></br><br>
+				<p>
+					If you cannot attend our event, click <a href="https://aldiduzha.com" target="_blank"><strong>HERE</strong></a>.
+				</p>
+			</div>
+			<!-- FOOTER -->
+			<div class="hero-foot">
+				<div class="container">
+					<div class="tabs is-centered">
+						<ul>
+							<li class="footer-text"><a href="https://www.aldiduzha.com">Designed with <i class="fa fa-heart fa-fw" style="font-size: 12px; color:red;"></i> by Aldi Duzha</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+	</body>
+	</html>
