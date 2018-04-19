@@ -6,7 +6,7 @@ html,body {
 
 html {
   overflow-y: hidden !important;
-  background-image: url('coming_soon_background.jpg') !important;
+  background-image: url('https://github.com/aldi/awesome-bulma-templates/raw/master/images/coming_soon_background.jpg') !important;
   	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover; 
