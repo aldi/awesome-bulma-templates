@@ -1,0 +1,100 @@
+html,body {
+  font-family: 'Tajawal', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+html {
+  overflow-y: hidden !important;
+  background-image: url('coming_soon_background.jpg') !important;
+  	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover; 
+	background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero.is-success {
+  background: #F2F6FA;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.box {
+  margin-top: 5rem;
+  background-color: rgba(255,255,255,0.1);
+}
+input {
+  font-weight: 300;
+}
+p {
+  font-weight: 700;
+}
+p.subtitle {
+  padding-top: 1rem;
+}
+
+.facebook-button {
+  color: #fff;
+  background-color: #3a589a;
+  width: 50px;
+}
+
+.facebook-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+.twitter-button {
+  color: #fff;
+  background-color: #4099ff;
+  width: 50px;
+}
+
+.twitter-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+.google-button {
+  color: #fff;
+  background-color: #e9544f;
+  width: 50px;
+}
+
+.google-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+.linkedin-button {
+  color: #fff;
+  background-color: #0077B5;
+  width: 50px;
+}
+
+.linkedin-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #d3d6df;
+}
+
+.fa-sign-in-alt {
+  font-size: 36px;
+}
+
+.languages {
+  margin-top: 10px;
+}
+.title.is-1 {
+  font-size: 5rem;
+}
