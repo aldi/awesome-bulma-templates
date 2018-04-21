@@ -1,5 +1,5 @@
 # Awesome Bulma Templates
-Free Templtates designed using Bulma CSS Framework
+Free Templates designed using Bulma CSS Framework
 
 ## Templates
 
