@@ -3,6 +3,12 @@ Free Templates designed using Bulma CSS Framework
 
 ## Templates
 
+CV Template: [soon]()
+![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/cv.png) 
+
+Hotel Template: [soon]()
+![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/hotel.png) 
+
 Coming Soon Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/coming_soon.html)
 ![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/coming_soon.png)    
 
