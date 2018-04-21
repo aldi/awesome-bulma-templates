@@ -37,3 +37,7 @@ html, body {
 .subtitle a {
 	color: pink;
 }
+
+.button {
+	height: auto;
+}
