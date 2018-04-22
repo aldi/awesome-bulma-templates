@@ -1,0 +1,105 @@
+/*.column {
+  padding: 0;
+  }*/
+
+  .column {
+    display: flex;
+  }
+
+  .image {
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+  }
+
+  #left {
+    padding: 7%;
+  }
+
+  #right {
+    background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/images/cv_background.jpg");
+  }
+
+/*  html {
+    overflow-y:hidden;
+    }*/
+
+    .columns {
+      margin-top: 0;
+    }
+
+    #right {
+      width: 100%;
+      height:100%;
+    }
+
+    @media (min-width: 769px) {
+      #right {
+        width: 50%;
+      }
+    }
+
+    #right {
+      background-position: center center;
+      background-size: cover;
+      height: 400px;
+      position: relative;
+    }
+
+    @media (min-width: 769px) {
+      #right {
+        height: 100vh;
+        position: fixed;
+        right: 0;
+        top: 0;
+      }
+    }
+
+    @media (max-width: 768px) {
+      /**/
+    }
+
+    .facebook-button {
+      color: #fff;
+      background-color: #3a589a;
+      width: 50px;
+    }
+
+    .facebook-button:hover {
+      border-color: #bdbdbd;
+      color: #ffffff;
+    }
+
+    .twitter-button {
+      color: #fff;
+      background-color: #4099ff;
+      width: 50px;
+    }
+
+    .twitter-button:hover {
+      border-color: #bdbdbd;
+      color: #ffffff;
+    }
+
+    .google-button {
+      color: #fff;
+      background-color: #e9544f;
+      width: 50px;
+    }
+
+    .google-button:hover {
+      border-color: #bdbdbd;
+      color: #ffffff;
+    }
+
+    .linkedin-button {
+      color: #fff;
+      background-color: #0077B5;
+      width: 50px;
+    }
+
+    .linkedin-button:hover {
+      border-color: #bdbdbd;
+      color: #ffffff;
+    }
