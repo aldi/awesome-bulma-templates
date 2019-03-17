@@ -6,7 +6,7 @@ Free Templates designed using Bulma CSS Framework
 CV Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/cv.html)
 ![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/cv.png) 
 
-Bulma Hotel Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/hotel.html)
+Hotel Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/hotel.html)
 ![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/hotel.png) 
 
 Coming Soon Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/coming_soon.html)
@@ -18,8 +18,8 @@ Login Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/
 Event Participation Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/event.html)
 ![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/event.png)
 
-Bulma Rent Template: 
-SOON...
+Rent Template: (To be released)
+![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/rent.png)
 
 The templates are located in the ```/templates``` directory, and you can preview them on the [demo website](http://aldi.github.io/awesome-bulma-templates)
 
