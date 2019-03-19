@@ -23,6 +23,14 @@ Rent Template: (To be released)
 
 The templates are located in the ```/templates``` directory, and you can preview them on the [demo website](http://aldi.github.io/awesome-bulma-templates)
 
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
 ## Licence
 
 MIT license
