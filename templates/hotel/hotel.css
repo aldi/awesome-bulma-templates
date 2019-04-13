@@ -7,7 +7,7 @@ body{
     background-color:#f0f0f0
 }
 .main_hero {
-    background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/images/hotel_background.jpg");
+    background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/templates/hotel/hotel_background.jpg");
     background-size: cover;
 }
 a{
