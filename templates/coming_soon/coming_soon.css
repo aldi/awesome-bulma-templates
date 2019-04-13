@@ -6,7 +6,7 @@ html,body {
 
 html {
   overflow-y: hidden !important;
-  background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/images/login_background.jpg") !important;
+  background-image: url('https://github.com/aldi/awesome-bulma-templates/raw/master/templates/coming_soon/coming_soon_background.jpg') !important;
   	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover; 
@@ -69,8 +69,23 @@ p.subtitle {
   color: #ffffff;
 }
 
+.linkedin-button {
+  color: #fff;
+  background-color: #0077B5;
+  width: 50px;
+}
+
+.linkedin-button:hover {
+  border-color: #bdbdbd;
+  color: #ffffff;
+}
+
 a {
   color: #fff;
+}
+
+a:hover {
+  color: #d3d6df;
 }
 
 .fa-sign-in-alt {
@@ -79,4 +94,7 @@ a {
 
 .languages {
   margin-top: 10px;
+}
+.title.is-1 {
+  font-size: 5rem;
 }
