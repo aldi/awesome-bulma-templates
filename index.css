@@ -3,7 +3,7 @@ html, body {
 	background: #F0F2F4;
 }
 .hero-body {
-	background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/images/hero_background.jpg");
+	background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/background.jpg");
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover; 
