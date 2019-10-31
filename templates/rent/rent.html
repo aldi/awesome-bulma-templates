@@ -1,21 +1,17 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="rpp" content="6">
-	<meta name="site-uri" content="rent.html">
-
-	<!-- Title and meta stuff-->
-	<title>Apartments, Condos, Houses and Townhouses For Rent | Bulma Rent Template</title>
-	<meta name="description" content="Search houses and apartments for rent anywhere within the US. View floorplans, pricing, images and more. Find your perfect rental.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 	<meta name="author" content="Aldi Duzha">
-	<link rel="canonical" href="rent.html"/>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+	<meta name="description" content="Search houses and apartments for rent anywhere within the US. View floorplans, pricing, images and more. Find your perfect rental.">
+	<meta name="keywords" content="bulma, rent, apartments, page, website, template, free, awesome">
+	<link rel="canonical" href="https://aldi.github.io/awesome-bulma-templates/templates/rent/rent.html"/>
+	<title>Rent - Free Bulma Template</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css" integrity="sha256-D9M5yrVDqFlla7nlELDaYZIpXfFWDytQtiV+TaH6F1I=" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="rent.css">
 	<script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
-    <link rel="stylesheet" type="text/css" href="rent.css">
 </head>
 <body>
 	<div id="app">
@@ -27,7 +23,6 @@
 							<a class="navbar-item" href="rent.html">
 								<img src="https://bulma.io/images/bulma-logo.png" alt="Bulma Rent" width="80" height="20">
 							</a>
-
 							<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarTopMain">
 								<span aria-hidden="true"></span>
 								<span aria-hidden="true"></span>
@@ -95,12 +90,8 @@
 				</div>
 			</div>
 		</div>
-
 	</section>
-
-
 	<section class="hero is-medium has-text-centered" >
-
 		<div class="hero-body ">
 			<div class="container">
 				<h2 class="subtitle">
@@ -310,9 +301,7 @@
 			</div>
 		</div>
 	</section>
-
 	<div class="container"><hr></div>
-
 	<section class="hero">
 		<div class="hero-body">
 			<div class="container">
@@ -332,7 +321,6 @@
 			</div>
 		</div>
 	</section>
-
 	<section class="hero is-medium">
 		<div class="hero-body">
 			<div class="container">
@@ -529,7 +517,6 @@
 						<div class="sub-section">
 							<h3 class="title is-size-4">Browse by popular neighborhoods</h3>
 							<div class="columns">
-
 								<div class="column">
 									<div class="card rb-card">
 										<div class="card-image">
@@ -617,7 +604,6 @@
 			</div>
 		</div>
 	</section>
-
 	<section class="hero is-medium is-light" >
 		<div class="hero-body p-b-30">
 			<div class="container">
@@ -626,7 +612,6 @@
 						For landlords & property managers
 					</h2>
 					<h1 class="title">Want to Decrease Time on Market?</h1>
-
 					<p class="m-t-30">
 						<a href="https://github.com/aldi/awesome-bulma-templates" class="button is-medium is-shadowy is-primary">
 							Learn more
@@ -638,9 +623,7 @@
 				</div>
 			</div>
 		</div>
-
 	</section>
-
 	<footer class="hero is-small is-light">
 		<div class="hero-body">
 			<div class="container has-text-centered">
@@ -679,30 +662,23 @@
 	else window.addEventListener('load', loadDeferredStyles);
 </script>
 <script>
-    document.addEventListener('DOMContentLoaded', () => {
-
+	document.addEventListener('DOMContentLoaded', () => {
         // Get all "navbar-burger" elements
         const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-
         // Check if there are any navbar burgers
         if ($navbarBurgers.length > 0) {
-
             // Add a click event on each of them
             $navbarBurgers.forEach( el => {
-                el.addEventListener('click', () => {
-
+            	el.addEventListener('click', () => {
                     // Get the target from the "data-target" attribute
                     const target = el.dataset.target;
                     const $target = document.getElementById(target);
-
                     // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
                     el.classList.toggle('is-active');
                     $target.classList.toggle('is-active');
-
                 });
             });
         }
-
     });
 </script>
 </body>
