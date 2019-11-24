@@ -21,6 +21,10 @@ Login Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/
 Event Participation Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/event/event.html)
 ![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/event.png)
 
+Landing Page Template: [Live Demo](https://bulma-template.runkodapps.com)
+![Promo Image](https://www.dropbox.com/s/3s7bo6535co7jxa/concept-preview.png?raw=1)
+
+
 The templates are located in the ```/templates``` directory, and you can preview them on the [demo website](http://aldi.github.io/awesome-bulma-templates)
 
 ## Contributing
