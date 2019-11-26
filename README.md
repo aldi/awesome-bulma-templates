@@ -3,6 +3,9 @@ Free Templates designed using Bulma CSS Framework
 
 ## Templates
 
+Product/App Landing Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/product-landing-page/product-landing-page.html)
+![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/product_landing_page.png)
+
 Rent Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/rent/rent.html)
 ![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/rent.png)
 
