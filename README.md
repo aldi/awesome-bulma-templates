@@ -1,43 +1,45 @@
-# Awesome Bulma Templates
-Free Templates designed using Bulma CSS Framework
+# Awesome Bulma Templates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+Free real-world templates made using the Bulma CSS Framework
 
-## Templates
+## Templates 🎨
 
 Product/App Landing Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/product-landing-page/product-landing-page.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/product_landing_page.png)
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/product_landing_page.png)
 
 Rent Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/rent/rent.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/rent.png)
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/rent.png)
 
 CV Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/cv/cv.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/cv.png) 
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/cv.png)
 
 Hotel Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/hotel/hotel.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/hotel.png) 
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/hotel.png)
 
 Coming Soon Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/coming_soon/coming_soon.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/coming_soon.png)    
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/coming_soon.png)
 
 Login Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/login/login.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/login.png)  
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/login.png)  
 
 Event Participation Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/event/event.html)
-![](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/event.png)
-
-Landing Page Template: [Live Demo](https://bulma-template.runkodapps.com)
-![Promo Image](https://www.dropbox.com/s/3s7bo6535co7jxa/concept-preview.png?raw=1)
-
+![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/event.png)
 
 The templates are located in the ```/templates``` directory, and you can preview them on the [demo website](http://aldi.github.io/awesome-bulma-templates)
 
-## Contributing
+## Contributors ✨
+
+<a href="https://github.com/hellobetkowski"><img src="https://avatars2.githubusercontent.com/u/15065804?s=460&v=4" title="aldi" width="80" height="80"></a>
+<a href="https://github.com/hellobetkowski"><img src="https://avatars3.githubusercontent.com/u/34217259?s=460&v=4" title="hellobetkowski" width="80" height="80"></a>
+<a href="https://github.com/hellobetkowski"><img src="https://avatars1.githubusercontent.com/u/1508705?s=460&v=4" title="sugardayfox" width="80" height="80"></a>
+
+## Contributing 😍
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request
 
-## Licence
+## Licence 📜
 
 MIT license
