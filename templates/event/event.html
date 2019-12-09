@@ -11,7 +11,8 @@
 	<title>Event Participation Form - Free Bulma Template</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css" integrity="sha256-D9M5yrVDqFlla7nlELDaYZIpXfFWDytQtiV+TaH6F1I=" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="event.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-checkradio@1.1.1/dist/css/bulma-checkradio.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 	<script>
@@ -45,7 +46,7 @@
 			<div class="container has-text-centered">
 				<p>
 					<h1 class="title is-3">Our company celebrates 50 years!</h1>
-					<p>We invite you to our Press Conference & VIP Cocktail on <strong>January 1st 2019</strong> at Tae Kwon Do, VIP hall.<br>
+					<p>We invite you to our Press Conference & VIP Cocktail on <strong>January 1st 2021</strong> at Tae Kwon Do, VIP hall.<br>
 					We’re so pleased to welcome you to our celebration of linking people together.</p>
 					<h4>Select below the talks that you will participate in.</h4>
 					<div class="columns is-vcentered">
@@ -55,7 +56,7 @@
 								<div class="panel-block">
 									<table class="table table is-fullwidth">
 										<thead>
-											<tr>
+											<tr style="background-color: white">
 												<th>Time</th>
 												<th>Talk</th>
 												<th style="text-align: center;">Select</th>
@@ -66,14 +67,9 @@
 												<td>9:00</td>
 												<td>Grand Opening</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="grandopening" name="grandopening">
+														<label for="grandopening"></label>
 													</div>
 												</td>
 											</tr>
@@ -81,14 +77,9 @@
 												<td>9:45</td>
 												<td>Launching of the theme MAKING HISTORY TOGETHER</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="makinghistory" name="makinghistory">
+														<label for="makinghistory"></label>
 													</div>
 												</td>
 											</tr>
@@ -96,14 +87,9 @@
 												<td>10:00</td>
 												<td>The Founders Speech</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="foundersspeech" name="foundersspeech">
+														<label for="foundersspeech"></label>
 													</div>
 												</td>
 											</tr>
@@ -111,14 +97,9 @@
 												<td>10:15</td>
 												<td>Brand</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="brand" name="brand">
+														<label for="brand"></label>
 													</div>
 												</td>
 											</tr>
@@ -126,14 +107,9 @@
 												<td>10:25</td>
 												<td>Brand - SkinCare</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="skincare" name="skincare">
+														<label for="skincare"></label>
 													</div>
 												</td>
 											</tr>
@@ -141,14 +117,9 @@
 												<td>11:00</td>
 												<td>Brand - Digital</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="digital" name="digital">
+														<label for="digital"></label>
 													</div>
 												</td>
 											</tr>
@@ -156,14 +127,9 @@
 												<td>11:15</td>
 												<td>Brand - Wellness</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="wellness" name="wellness">
+														<label for="wellness"></label>
 													</div>
 												</td>
 											</tr>
@@ -171,14 +137,9 @@
 												<td>12:20</td>
 												<td>Brand - Color & Fragrance</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="colorandfragrance" name="colorandfragrance">
+														<label for="colorandfragrance"></label>
 													</div>
 												</td>
 											</tr>
@@ -186,14 +147,9 @@
 												<td>13:00</td>
 												<td>HALL OF FAME / GRAND CLOSING</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="grandclosing" name="grandclosing">
+														<label for="grandclosing"></label>
 													</div>
 												</td>
 											</tr>
@@ -201,14 +157,9 @@
 												<td>14:00</td>
 												<td>Press Conference & VIP Cocktail</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio is-info" type="checkbox" id="vipcoctail" name="vipcoctail">
+														<label for="vipcoctail"></label>
 													</div>
 												</td>
 											</tr>
@@ -216,14 +167,9 @@
 												<td></td>
 												<td style="text-align: right; vertical-align: middle;">Select All</td>
 												<td class="is-icon">
-													<div class="field-body">
-														<div class="field">
-															<div class="checkboxes">
-																<label class="checkbox">
-																	<input type="checkbox" id="select-all">
-																</label>
-															</div>
-														</div>
+													<div class="field">
+														<input class="is-checkradio" type="checkbox" id="select-all" name="select-all">
+														<label for="select-all"></label>
 													</div>
 												</td>
 											</tr>
@@ -252,14 +198,8 @@
 				</p>
 			</div>
 			<!-- FOOTER -->
-			<div class="hero-foot">
-				<div class="container">
-					<div class="tabs is-centered">
-						<ul>
-							<li class="footer-text"><a href="https://www.aldiduzha.com">Designed with <i class="fa fa-heart fa-fw" style="font-size: 12px; color:red;"></i> by Aldi Duzha</a></li>
-						</ul>
-					</div>
-				</div>
+			<div class="footer-text container has-text-centered">
+				<a href="https://www.aldiduzha.com?event_template" target="_blank">Designed with <i class="fa fa-heart fa-fw" style="font-size: 12px; color:red;"></i> by Aldi Duzha</a>
 			</div>
 		</section>
 	</body>
