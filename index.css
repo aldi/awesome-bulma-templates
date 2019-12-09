@@ -3,15 +3,20 @@ html, body {
 	background: #F0F2F4;
 }
 .hero-body {
-	background-image: url("https://github.com/aldi/awesome-bulma-templates/raw/master/background.jpg");
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover; 
-	background-size:cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: bottom;
-	background-repeat: no-repeat;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradientBG 15s ease infinite;
+}
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 .card {
 	margin-bottom: 3rem;
