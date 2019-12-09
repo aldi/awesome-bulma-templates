@@ -82,3 +82,23 @@ h4 {
 .is-3 {
   color: #3e3e3e !important;
 }
+
+.is-icon {
+  text-align: center !important;
+}
+
+.is-checkradio[type=checkbox]+label {
+  padding-left: 0 !important;
+}
+
+tr:nth-child(odd) {
+  background-color: #b3b3b311;
+}
+
+.panel-heading {
+  background-color: #f7f7f7;
+}
+
+.footer-text {
+  font-size: 12px;
+}
