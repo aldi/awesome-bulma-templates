@@ -3,7 +3,7 @@ Free real-world templates made using the Bulma CSS Framework
 
 ## Templates 🎨
 
-Product/App Landing Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/burger_store/index.html)
+Burger Store Landing Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/burger_store/index.html)
 ![Template Screenshot](https://github.com/aldi/awesome-bulma-templates/raw/master/previews/burger_store.jpeg)
 
 Product/App Landing Page Template: [Live Demo](https://aldi.github.io/awesome-bulma-templates/templates/product_landing_page/index.html)
