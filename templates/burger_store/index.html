@@ -1,0 +1,149 @@
+<!--
+########################################################################   
+@Author: Stelios Restemis                                              #
+@Date: 18 April 2020                                                   #
+Bulma burger store landing page                                        #
+Special thanks to Aldi Duzha for providing help and social buttons     #
+#Opensource                                                            #
+TODOs: Add sidebar carousel for more images in the future              #
+########################################################################
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset=" UTF-8 ">
+    <meta name=" viewport " content=" width=device-width, initial-scale=1 ">
+    <link rel=" stylesheet " href=" https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css ">
+    <link rel=" stylesheet " href=" css/style.css ">
+    <link rel="stylesheet " href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css ">
+    <link rel="stylesheet " href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css ">
+</head>
+
+<body>
+    <section class=" hero is-fullheight ">
+        <nav class="navbar " role="navigation " aria-label="main navigation ">
+            <div class="navbar-brand ">
+                <a class="navbar-item " href="# ">
+                    <img src="img/nav-icon.png " width="30 " height="28 ">
+                </a>
+
+                <a role="button " class="navbar-burger burger " aria-label="menu " aria-expanded="false " data-target="navbarBasicExample ">
+                    <span aria-hidden="true "></span>
+                    <span aria-hidden="true "></span>
+                    <span aria-hidden="true "></span>
+                </a>
+            </div>
+
+            <div id="navbar " class="navbar-menu ">
+                <div class="navbar-start ">
+                    <a class="navbar-item ">
+          Products
+        </a>
+
+                    <a class="navbar-item ">
+          Blogs
+        </a>
+
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a class="navbar-link ">
+            More
+          </a>
+
+                        <div class="navbar-dropdown ">
+                            <a class="navbar-item ">
+              About
+            </a>
+                            <a class="navbar-item ">
+              Contact
+            </a>
+                        </div>
+                    </div>
+
+                    <a class="navbar-item ">
+                        <div class="field ">
+                            <div class="searchbar " style="background-image: url(img/search.png); ">
+                                <input class="input is-rounded " type="text " placeholder="Search for products ">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            </div>
+        </nav>
+
+        <div class="container ">
+            <div class="columns reverse-row-order ">
+                <div class="column is-7-mobile " style="padding-top:100px ; ">
+                    <p class="has-text-left is-family-sans-serif is-size-1 has-text-danger has-text-weight-bold ">
+                        Nice Title
+                    </p>
+                    <p class="has-text-left is-family-sans-serif is-size-2 has-text-weight-bold has-text-black ">
+                        Product name
+                    </p>
+                    <p class="has-text-left is-family-sans-serif is-size-4 ">
+                        Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Fermentum iaculis eu non diam. Vel risus commodo viverra maecenas accumsan lacus. Turpis cursus in hac habitasse platea dictumst.n orci ex, fringilla id metus a, euismod condimentum
+                        erat. Mauris sit amet ex blandit, placerat lacus id, eleifend nisl.
+                    </p>
+                    <p class="price has-text-danger is-size-4 has-text-weight-bold has-text-left ">
+                        4,20$ <del>8$</del></p>
+                    <div class="buttons ">
+                        <button class="button is-medium ">
+                ORDER NOW
+              </button>
+                    </div>
+                </div>
+
+                <div class="column is-5-mobile ">
+                    <figure class="image ">
+                        <img src="img/bacon-burger.jpg ">
+                        <div class="buttons " style="justify-content: space-around; ">
+
+                            <a class="button is-medium is-facebook ">
+                                <span class="icon ">
+                      <i class="fab fa-facebook "></i>
+                    </span>
+                                <span>Facebook</span>
+                            </a>
+
+                            <a class="button is-medium is-instagram ">
+                                <span class="icon ">
+                      <i class="fab fa-instagram "></i>
+                    </span>
+                                <span>Instagram</span>
+                            </a>
+
+                            <a class="button is-medium is-twitter ">
+                                <span class="icon ">
+                      <i class="fab fa-twitter "></i>
+                    </span>
+                                <span>Twitter</span>
+                            </a>
+                        </div>
+                    </figure>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer ">
+            <div class="container has-text-centered ">
+                <p class="has-text-black is-size-6 is-family-sans-serif">
+                    Built with <i class="fa fa-heart " style="color: red; "></i>, by <a href="https://github.com/restylianos/ ">restylianos</a>
+                    <br>
+                    <a href="https://github.com/restylianos/ " class="button is-small is-github ">
+                        <span class="icon ">
+            <i class="fab fa-github fa-lg "></i>
+          </span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/stelios-restemis-969a6319b/ " class="button is-small is-linkedin ">
+                        <span class="icon ">
+          <i class="fab fa-linkedin fa-lg "></i>
+        </span>
+                    </a>
+
+            </div>
+        </footer>
+    </section>
+</body>

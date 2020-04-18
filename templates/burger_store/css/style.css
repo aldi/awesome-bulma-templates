@@ -1,0 +1,64 @@
+.footer {
+    background-color: white;
+    padding: 2rem;
+}
+
+.price {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.button {
+    background-color: #DE1A1A;
+    color: white;
+}
+
+.searchbar {
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position-x: 170px;
+    background-position-y: 20px;
+    outline: none;
+}
+
+.input,
+.textarea {
+    box-shadow: none;
+    border: none;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    border-bottom: 2px solid black;
+}
+
+.input.is-rounded {
+    box-shadow: none;
+    border-radius: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+del {
+    color: grey;
+}
+
+@media(max-width: 1024px) {
+    .reverse-row-order {
+        flex-direction: column-reverse;
+        display: flex;
+    }
+    .has-text-left {
+        text-align: center !important;
+    }
+    .has-text-right {
+        text-align: center !important;
+    }
+    .button {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
