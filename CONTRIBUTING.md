@@ -16,7 +16,7 @@ Please be sure to follow the [Awesome Bulma Templates Community Guidelines](http
   - ✖ Landing Page Website.
 - The name should must be in English.
 - The project must be updated to the **latest** versions of Bulma etc.
-- The template must be placed on top of the list in `README.md` and `index.html`.
+- The template must be placed at the bottom of the list in `README.md` and `index.html`.
 - Follow the other templates' structure in `index.html`.
 - Your project must be have its own dedicated _repo_.
 - The screenshot of the template must be inside the _previews_ folder.
