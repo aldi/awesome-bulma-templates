@@ -6,7 +6,7 @@ A list of real-world templates made using the Bulma CSS Framework
 
 ## Templates 🎨
 Wedding Planner Template: [Live Demo](https://restylianos.github.io/bulma-wedding-planner-template/) | [Source Code](https://github.com/restylianos/bulma-wedding-planner-template/)
-![Template Screenshot](previews/login.png)
+![Template Screenshot](previews/Wedding-Planner.png)
 
 Login Page Template: [Live Demo](https://aldi.github.io/bulma-login-template/) | [Source Code](https://github.com/aldi/bulma-login-template/)
 ![Template Screenshot](previews/login.png)
