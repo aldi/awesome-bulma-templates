@@ -30,6 +30,8 @@ Coming Soon Template: [Live Demo](https://aldi.github.io/bulma-coming-soon-templ
 Wedding Planner Template: [Live Demo](https://restylianos.github.io/bulma-wedding-planner-template/) | [Source Code](https://github.com/restylianos/bulma-wedding-planner-template/)
 ![Template Screenshot](previews/Wedding-Planner.png)
 
+Tropico Template: [Live Demo](https://restylianos.github.io/bulma-tropico-template/) | [Source Code](https://github.com/restylianos/bulma-tropico-template)
+![Template Screenshot](previews/tropico.png)
 Each template has its own dedicated repo. This repo is for showcase purposes only.
 
 ## Contributing 😍
