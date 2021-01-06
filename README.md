@@ -6,6 +6,12 @@ A list of real-world templates made using the Bulma CSS Framework
 
 ## Templates 🎨
 
+Tropico Template: [Live Demo](https://restylianos.github.io/bulma-tropico-template/) | [Source Code](https://github.com/restylianos/bulma-tropico-template)
+![Template Screenshot](previews/tropico.png)
+
+Wedding Planner Template: [Live Demo](https://restylianos.github.io/bulma-wedding-planner-template/) | [Source Code](https://github.com/restylianos/bulma-wedding-planner-template/)
+![Template Screenshot](previews/Wedding-Planner.png)
+
 Login Page Template: [Live Demo](https://aldi.github.io/bulma-login-template/) | [Source Code](https://github.com/aldi/bulma-login-template/)
 ![Template Screenshot](previews/login.png)
 
@@ -26,9 +32,6 @@ Event Participation Template: [Live Demo](https://aldi.github.io/bulma-event-par
 
 Coming Soon Template: [Live Demo](https://aldi.github.io/bulma-coming-soon-template/) | [Source Code](https://github.com/aldi/bulma-event-participation-template/)
 ![Template Screenshot](previews/coming_soon.png)
-
-Wedding Planner Template: [Live Demo](https://restylianos.github.io/bulma-wedding-planner-template/) | [Source Code](https://github.com/restylianos/bulma-wedding-planner-template/)
-![Template Screenshot](previews/Wedding-Planner.png)
 
 Each template has its own dedicated repo. This repo is for showcase purposes only.
 
