@@ -30,7 +30,7 @@ Hotel Template: [Live Demo](https://aldi.github.io/bulma-hotel-template/) | [Sou
 Event Participation Template: [Live Demo](https://aldi.github.io/bulma-event-participation-template/) | [Source Code](https://github.com/aldi/bulma-event-participation-template/)
 ![Template Screenshot](previews/event.png)
 
-Coming Soon Template: [Live Demo](https://aldi.github.io/bulma-coming-soon-template/) | [Source Code](https://github.com/aldi/bulma-event-participation-template/)
+Coming Soon Template: [Live Demo](https://aldi.github.io/bulma-coming-soon-template/) | [Source Code](https://github.com/aldi/bulma-coming-soon-template/)
 ![Template Screenshot](previews/coming_soon.png)
 
 Each template has its own dedicated repo. This repo is for showcase purposes only.
