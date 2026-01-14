@@ -3,6 +3,7 @@
 A list of real-world templates made using the Bulma CSS Framework
 
 ## Check out [Awesome-Bulma](https://github.com/aldi/awesome-bulma) 🎉
+## Check out [Bulma-Social](https://github.com/aldi/bulma-social) 🎉
 
 ## Templates 🎨
 
