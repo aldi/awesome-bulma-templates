@@ -15,9 +15,6 @@ Wedding Planner Template: [Live Demo](https://restylianos.github.io/bulma-weddin
 Login Page Template: [Live Demo](https://aldi.github.io/bulma-login-template/) | [Source Code](https://github.com/aldi/bulma-login-template/)
 ![Template Screenshot](previews/login.png)
 
-Product/App Landing Page Template: [Live Demo](http://bulma-template.runkodapps.com/) | [Source Code](https://github.com/hellobetkowski/bulma-product-landing-page-template/)
-![Template Screenshot](previews/product_landing_page.png)
-
 CV Template: [Live Demo](https://aldi.github.io/bulma-cv-template/) | [Source Code](https://github.com/aldi/bulma-cv-template/)
 ![Template Screenshot](previews/cv.png)
 
