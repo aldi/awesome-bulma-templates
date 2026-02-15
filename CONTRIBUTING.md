@@ -1,7 +1,5 @@
 # Contributing Guide
 
-Please be sure to follow the [Awesome Bulma Templates Community Guidelines](https://github.com/aldi/awesome-bulma-templates/blob/master/.github/CODE_OF_CONDUCT.md).
-
 ## General Guidelines
 
 1. Respect the formats described below.
@@ -20,7 +18,7 @@ Please be sure to follow the [Awesome Bulma Templates Community Guidelines](http
 - Follow the other templates' structure in `index.html`.
 - Your project must be have its own dedicated _repo_.
 - The screenshot of the template must be inside the _previews_ folder.
-- The dimensions of the template's screenshot must be at `3808 × 2418` (optional).
+- Recommended screenshot size: `1600 × 1016` (or keep a `16:10` aspect ratio).
 
 ### License 📜
 
