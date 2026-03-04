@@ -347,7 +347,7 @@ a:hover {
   gap: 0.5rem;
 }
 
-.badge {
+.template-card-badges .tag {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -359,32 +359,22 @@ a:hover {
   border-radius: 4px;
 }
 
-.badge.is-info {
-  background: rgba(59, 130, 246, 0.15);
-  color: #3b82f6;
-}
-
-.badge.is-success {
+.template-card-badges .tag.is-green {
   background: rgba(34, 197, 94, 0.15);
   color: #22c55e;
 }
 
-.badge.is-primary {
+.template-card-badges .tag.is-purple {
   background: rgba(99, 102, 241, 0.15);
   color: var(--color-primary);
 }
 
-[data-theme='dark'] .badge.is-info {
-  background: rgba(59, 130, 246, 0.25);
-  color: #fff;
-}
-
-[data-theme='dark'] .badge.is-success {
+[data-theme='dark'] .template-card-badges .tag.is-green {
   background: rgba(34, 197, 94, 0.25);
   color: #fff;
 }
 
-[data-theme='dark'] .badge.is-primary {
+[data-theme='dark'] .template-card-badges .tag.is-purple {
   background: rgba(139, 92, 246, 0.35);
   color: #ddd6fe;
 }
@@ -393,7 +383,6 @@ a:hover {
   position: relative;
   aspect-ratio: 16 / 10;
   overflow: hidden;
-  border-radius: var(--radius-md);
   background: var(--color-bg-alt);
 }
 
@@ -495,7 +484,7 @@ a:hover {
   animation: iconBounce 0.4s ease;
 }
 
-.badge.is-success {
+.template-card-badges .tag.is-green {
   animation: badgePulse 2s ease infinite;
 }
 
