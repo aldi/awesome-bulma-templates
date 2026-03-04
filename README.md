@@ -9,6 +9,9 @@ A curated collection of free, real-world templates built with the Bulma CSS Fram
 
 ## Templates 🎨
 
+Coming Soon Template: [Live Demo](https://aldi.github.io/bulma-coming-soon-template/) | [Source Code](https://github.com/aldi/bulma-coming-soon-template/)
+![Coming Soon template screenshot](docs/previews/coming_soon.webp)
+
 Tropico Template: [Live Demo](https://restylianos.github.io/bulma-tropico-template/) | [Source Code](https://github.com/restylianos/bulma-tropico-template)
 ![Tropico template screenshot](docs/previews/tropico.webp)
 
@@ -29,9 +32,6 @@ Hotel Template: [Live Demo](https://aldi.github.io/bulma-hotel-template/) | [Sou
 
 Event Participation Template: [Live Demo](https://aldi.github.io/bulma-event-participation-template/) | [Source Code](https://github.com/aldi/bulma-event-participation-template/)
 ![Event Participation template screenshot](docs/previews/event.webp)
-
-Coming Soon Template: [Live Demo](https://aldi.github.io/bulma-coming-soon-template/) | [Source Code](https://github.com/aldi/bulma-coming-soon-template/)
-![Coming Soon template screenshot](docs/previews/coming_soon.webp)
 
 Each template has its own dedicated repo. This repo is for showcase purposes only.
 
