@@ -9,6 +9,9 @@ A curated collection of free, real-world templates built with the Bulma CSS Fram
 
 ## Templates 🎨
 
+Login Page Template: [Live Demo](https://aldi.github.io/bulma-login-template/) | [Source Code](https://github.com/aldi/bulma-login-template/)
+![Login Page template screenshot](docs/previews/login.webp)
+
 CV Template: [Live Demo](https://aldi.github.io/bulma-cv-template/) | [Source Code](https://github.com/aldi/bulma-cv-template/)
 ![CV template screenshot](docs/previews/cv.webp)
 
@@ -23,9 +26,6 @@ Tropico Template: [Live Demo](https://restylianos.github.io/bulma-tropico-templa
 
 Wedding Planner Template: [Live Demo](https://restylianos.github.io/bulma-wedding-planner-template/) | [Source Code](https://github.com/restylianos/bulma-wedding-planner-template/)
 ![Wedding Planner template screenshot](docs/previews/Wedding-Planner.webp)
-
-Login Page Template: [Live Demo](https://aldi.github.io/bulma-login-template/) | [Source Code](https://github.com/aldi/bulma-login-template/)
-![Login Page template screenshot](docs/previews/login.webp)
 
 Rent Template: [Live Demo](https://aldi.github.io/bulma-rent-template/) | [Source Code](https://github.com/aldi/bulma-rent-template/)
 ![Rent template screenshot](docs/previews/rent.webp)
